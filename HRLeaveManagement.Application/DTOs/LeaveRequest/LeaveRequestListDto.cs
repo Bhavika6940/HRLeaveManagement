@@ -9,5 +9,6 @@ namespace HRLeaveManagement.Application.DTOs.LeaveRequest
 {
     public class LeaveRequestListDto : BaseDto
     {
+        
     }
 }
